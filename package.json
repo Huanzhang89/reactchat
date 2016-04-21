@@ -1,0 +1,33 @@
+{
+  "name": "reactchat",
+  "version": "1.0.0",
+  "description": "Chat App built in ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huanzhang89/reactchat.git"
+  },
+  "keywords": [
+    "React",
+    "Chat"
+  ],
+  "author": "Huan Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huanzhang89/reactchat/issues"
+  },
+  "homepage": "https://github.com/Huanzhang89/reactchat#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "browserify": "^13.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.2"
+  }
+}

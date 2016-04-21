@@ -1,0 +1,5 @@
+Set up project to use gulp as taskrunner. Managed to get gulp running. Will achieve a mini goal everyday, with 30mins of coding. 
+
+Building a chatroom webapp in React, not following a specific tutorial in particular, but am an experienced vanilla JS developer.
+
+Project to see how long it takes to become proficient in React with 30mins a day.
